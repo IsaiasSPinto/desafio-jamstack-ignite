@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --gray-900 : #282C34;
+  --white : #FFFFFF
+}
+
+
+body {
+  background: var(--gray-900);
+  color: var(--white)
+}
